@@ -41,12 +41,12 @@ Repo: [add link]
 #### 3. Fertility Clinic RAG Chatbot
 Stack: Monday.com GraphQL, LangChain, FastAPI  
 RAG chatbot designed to assist patients using internal clinic data.  
-Repo: [Click here](https://github.com/feliperenom/clinica-fertilidad)
+Repo: [Click here](https://github.com/feliperenom/clinica-fertilidad) <- You need to request access to see the code. My repos are private. 
 
 #### 4. Clinic Chatbot (Healthcare)
 Stack: Python, LangGraph, FastAPI, Streamlit, Google Drive Integration. 
 RAG chatbot with data from a Google Drive folder to index and make a RAG that answers questions from the clinic to doctors. 
-Repo: [Click here](https://github.com/feliperenom/clinic-internal-chatbot)
+Repo: [Click here](https://github.com/feliperenom/clinic-internal-chatbot) <- You need to request access to see the code. My repos are private. 
 
 ---
 
