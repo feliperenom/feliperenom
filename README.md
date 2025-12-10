@@ -32,9 +32,9 @@ Below are some of the projects I have worked on.
 ### AI Chatbots and AI Agents
 
 #### 1. SHAI AI – Conversational avatar with RAG + LangGraph
-Stack: LangGraph, FastAPI, Pinecone, Streamlit  
-A narrative-driven chatbot system with memory and dynamic generation.  
-Repo: [add link]
+Stack: LangGraph, FastAPI, Pinecone, React
+A narrative-driven chatbot system with memory and custom dashboard to manage indexed files in Pinecone. 
+Repo: [Click Here](https://github.com/feliperenom/shai-ai-avatar/tree/main)] <- You need to request access to see the code. My repos are private. 
 
 ---
 
@@ -55,14 +55,14 @@ Repo: [Click here](https://github.com/feliperenom/clinic-internal-chatbot) <- Yo
 #### 5. Montevideo Real Estate Price Prediction
 Stack: Python, LightGBM, RandomForest, XGBoost, ScikitLearn, BeautifulSoup
 Predictive model estimating housing prices in Montevideo, with data scraped from casas+ website (Real Estate portal in Montevideo). 
-Repo: [add link]
+Repo: [Check Here](https://github.com/feliperenom/tesis-mcd-inm) <- This one is public, go check it out!
 
 ---
 
-#### 7. Dog Breed Classifier (Transfer Learning)
-Stack: TensorFlow, AlexNet, image augmentation  
+#### 7. Dog Breed Classifier (Deep Neural Network)
+Stack: TensorFlow, AlexNet, image augmentation, Neural networks
 Classifier for five dog breeds plus an "other breed" option.  
-Repo: [add link]
+Repo: [Click Here](https://github.com/feliperenom/modelo-perros-gatos)] <- You need to request access to see the code. My repos are private.
 
 ---
 
@@ -70,10 +70,11 @@ Repo: [add link]
 
 Website: https://feliperenom.com  
 LinkedIn: [add link]  
-Email: [add email]
+Email: feliperenom70@gmail.com
 
 ---
 
 ## If you find my work useful
+
 Consider leaving a star on my repositories. It really helps.  
 Thanks for visiting my portfolio.
