@@ -70,7 +70,7 @@ Repo: [Click Here](https://github.com/feliperenom/modelo-perros-gatos)] <- You n
 ## Contact
 
 Website: https://feliperenom.com  
-LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/felipe-renom/)
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/felipe-renom/)  
 Email: feliperenom70@gmail.com
 
 ---
