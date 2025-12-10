@@ -38,17 +38,15 @@ Repo: [add link]
 
 ---
 
-#### 2. AI Upwork Proposal Generator
-Stack: LangGraph, ChromaDB, FastAPI, React  
-An agent that generates personalized proposals for Upwork jobs.  
-Repo: [add link]
-
----
-
 #### 3. Fertility Clinic RAG Chatbot
 Stack: Monday.com GraphQL, LangChain, FastAPI  
 RAG chatbot designed to assist patients using internal clinic data.  
 Repo: [add link]
+
+#### 4. Clinic Chatbot (Healthcare)
+Stack: Python, LangGraph, FastAPI, Streamlit, Google Drive Integration. 
+RAG chatbot with data from a Google Drive folder to index and make a RAG that answers questions from the clinic to doctors. 
+Repo: [Click here](https://github.com/feliperenom/clinic-internal-chatbot)
 
 ---
 
