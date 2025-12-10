@@ -41,7 +41,7 @@ Repo: [add link]
 #### 3. Fertility Clinic RAG Chatbot
 Stack: Monday.com GraphQL, LangChain, FastAPI  
 RAG chatbot designed to assist patients using internal clinic data.  
-Repo: [add link]
+Repo: [Click here](https://github.com/feliperenom/clinica-fertilidad)
 
 #### 4. Clinic Chatbot (Healthcare)
 Stack: Python, LangGraph, FastAPI, Streamlit, Google Drive Integration. 
@@ -53,15 +53,8 @@ Repo: [Click here](https://github.com/feliperenom/clinic-internal-chatbot)
 ### Data Science and Machine Learning
 
 #### 5. Montevideo Real Estate Price Prediction
-Stack: Python, LightGBM, RandomForest  
-Predictive model estimating housing prices in Montevideo.  
-Repo: [add link]
-
----
-
-#### 6. Credit Card Fraud Detection API
-Stack: Flask, Logistic Regression, JavaScript frontend  
-Fraud detection API for credit card transactions.  
+Stack: Python, LightGBM, RandomForest, XGBoost, ScikitLearn, BeautifulSoup
+Predictive model estimating housing prices in Montevideo, with data scraped from casas+ website (Real Estate portal in Montevideo). 
 Repo: [add link]
 
 ---
@@ -69,22 +62,6 @@ Repo: [add link]
 #### 7. Dog Breed Classifier (Transfer Learning)
 Stack: TensorFlow, AlexNet, image augmentation  
 Classifier for five dog breeds plus an "other breed" option.  
-Repo: [add link]
-
----
-
-### Automation and Pipelines
-
-#### 8. Google Drive to JSON Pipeline + LLM Metadata Enrichment
-Stack: Python, Google Docs API, GCP, LLM metadata tagging  
-Pipeline that extracts documents, structures them, and enriches them using an LLM.  
-Repo: [add link]
-
----
-
-#### 9. Dataverse to Airtable Sync
-Stack: Power Automate, Airtable API  
-Automation flow to sync operational data between platforms.  
 Repo: [add link]
 
 ---
